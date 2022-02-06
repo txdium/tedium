@@ -1,25 +1,25 @@
 /* eslint-disable import/no-anonymous-default-export */
 export default {
-  name: "Henry",
-  email: "therealjohndoe@gmail.com",
+  name: "Tedium",
+  email: "design.tedium@gmail.com",
   about:
-    "Hey! I'm <b>Henry</b>, a twenty-four years old <b>User Interface</b> and <b>Experience Designer</b> currently based in <b>California</b>.",
+    "Hey! I'm <b>Tedium</b>, a 17 years old <b>Apparel</b> and <b>Graphic Designer</b> currently based in <b>Montreal</b>.",
 
   // intro
   accomplishments: {
     name: "Recent Accomplishments",
     value: [
-      "Learned HTML + CSS",
-      "Started a side project",
-      "Cooked meal for myself and choked to death",
+      "Enrolled in a graphic design program",
+      "Building my portfolio with my works",
+      "Learning and growing as a designer everyday!",
     ],
   },
   socialLink: {
     name: "Social Links",
     value: [
-      { name: "Instagram", link: "/" },
+      { name: "Behance", link: "behance.net/tedium" },
       { name: "Dribbble", link: "/" },
-      { name: "Twitter", link: "/" },
+      { name: "Twitter", link: "https://twitter.com/txdium" },
       { name: "Github", link: "/" },
       { name: "Youtube", link: "/" },
       { name: "Spotify", link: "/" },
@@ -28,30 +28,30 @@ export default {
   currentProfession: {
     name: "Currently",
 	  value: [
-		  "Doing contract/freelance work",
+		  "Looking for freelance work",
 		  "Available for new projects"
 	  ],
   },
 
   // Footer
   contactDetails: {
-    name: "Ways to contact me",
+    name: "Let's get to work!",
     value: [
       {
         name: "Gmail",
-        value: "therealjohndoe@gmail.com",
+        value: "design.tedium@gmail.com",
       },
       {
-        name: "Discord",
-        value: "DopeAss#9669",
+        name: "Twitter",
+        value: "@txdium",
       },
     ],
   },
   currentStatus: {
     name: "What am I upto right now",
     value: [
-      "Walking my dog in the park",
-      "Making dog excuse to gawk at the hot girl",
+      "Building my portfolio",
+      "Studying Graphic Design in College",
     ],
   },
 
@@ -62,13 +62,13 @@ export default {
   workExperience: [
     {
       info: {
-        "Company": ["Apple"],
+        "Test": ["TESTING"],
         "Description": [
-          "Looking to improve the overall quality of the product through a design thinking approach, as well as conducting Usability sessions to ensure the product appeals to our users.",
+          "Testing tested test to be tested.",
         ],
 	      "My Objectives": [
-	        "User Testing",
-	        "Accessibility improvements"
+	        "Having clients weekly",
+	        "Developing and experimenting on my craft"
 	      ],
       },
 
